@@ -8,11 +8,11 @@ With over 10 years of experience in the field, I've had the opportunity to work 
 
 Passionate about crafting interactive and intuitive user experiences, I specialize in front-end web development, combining modern frameworks with best practice design patterns. With almost 10 years dedicated to honing my skills in front-end technologies, I've led teams, designed system guidelines, and upheld the highest standards in web performance and SEO.
 
+Leadership profile and problem solver, I act pragmatically, always thinking about delivering the best product with the highest quality possible, I have good communication and always seek to act transparently and with confidence to resolve all conflicts and daily challenges.
+
 In my professional journey, I've proudly served as a Front-end Technical Lead as well, a role where my technical expertise met the challenges of team management. Beyond crafting top-tier user interfaces, I embraced the responsibilities of leadership, guiding my team with strategic oversight, and ensuring projects were executed efficiently.
 
 In addition to my professional pursuits, I've embraced the role of a "content creator" within the technology sphere. My approach is distinct; I aim to offer a fresh perspective on tech, blending insights with a dash of humor. 
-
-Outside of the professional environment, I nurture a unique passion: creating "art" using exclusively CSS. This activity not only sharpens my technical prowess but also allows me to blend programming and creativity in a uniquely captivating way.
 
 
 # 💻 Tech Stack
